@@ -1,3 +1,4 @@
+
 h1, h2{
     color: rgb(230, 233, 231);
   }
@@ -12,7 +13,7 @@ h1, h2{
     color:rgb(230, 233, 231);
   }
   img{
-    border-radius: 525px;
+    border-radius: 500px;
      }
      h1, p, h2{
        font-family: Arial, Helvetica, sans-serif;
